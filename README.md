@@ -1,7 +1,9 @@
 <h1 align="center">Fatih Akkaya</h1>
-<h3 align="center"> Computer Engineering Student </h3>
+<h3 align="center"> Data Scientist Candidate & Computer Engineer </h3>
 
 I'm interesting in Machine Learning and Web Applications, I'm trying to learn .Net Core using C# for developing WebAPI and Java, Docker, SQL. In my final year i've developed a Mobile Bank Application using .Net Core Web API and Java on fall term. On spring term, i used Python and Tensorflow library to develope Vehicle Brand Prediction Application. I trained my image dataset using Google Colab.
+
+<blockquote>I've started to 13th term Data Scientist Bootcamp @ Miuul</blockquote>
 
 ### Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
